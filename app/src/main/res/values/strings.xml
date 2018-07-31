@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">M15_App1</string>
+    <string name="firstcat">First Cat</string>
+    <string name="button">Move</string>
+</resources>
